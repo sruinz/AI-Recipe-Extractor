@@ -5,10 +5,15 @@
   "description": "유튜브 영상에서 우클릭하여 AI 레시피 추출기 웹사이트로 레시피 추출을 요청합니다.",
   "permissions": [
     "contextMenus",
-    "activeTab"
+    "activeTab",
+    "storage"
   ],
   "background": {
     "service_worker": "background.js"
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": false
   },
   "icons": {
     "16": "images/icon16.png",
