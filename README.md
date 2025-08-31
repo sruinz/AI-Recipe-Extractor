@@ -18,7 +18,7 @@ AI 레시피 추출기의 크롬, 엣지 확장 프로그램 입니다
 
 제대로 로딩이 되면 하단 기타 출처에 추가가 됩니다
 
-<img width="493" height="643" alt="image" src="https://github.com/user-attachments/assets/cdb4d347-1b15-4a54-9b51-61c54ac4778d" />
+<img width="493" height="398" alt="image" src="https://github.com/user-attachments/assets/2d9f8ddb-b32c-4730-969f-04cfacb82bea" />
 
 확장 프로그램 옵션 창에 AI 레시피 추출기 주소를 입력 해주시면 됩니다
 
