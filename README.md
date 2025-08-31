@@ -1,5 +1,7 @@
 AI 레시피 추출기의 크롬, 엣지 확장 프로그램 입니다
 
+https://chromewebstore.google.com/detail/ai-%EB%A0%88%EC%8B%9C%ED%94%BC-%EC%B6%94%EC%B6%9C%EA%B8%B0/meemjdgdjhjfhcfchppfapgifiipjnlo?authuser=0&hl=ko
+
 <img width="626" height="451" alt="image" src="https://github.com/user-attachments/assets/6ebbcce5-70c4-49cd-b377-12c398e571f3" />
 
 깃허브에서 확장 프로그램을 다운로드 ZIP 으로 다운 받으시고 적당한 곳에 압축을 풀어 줍니다
