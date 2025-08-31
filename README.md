@@ -1,8 +1,8 @@
 AI 레시피 추출기의 크롬, 엣지 확장 프로그램 입니다
 
-<img width="1056" height="228" alt="image" src="https://github.com/user-attachments/assets/de47ca55-2b52-4fd1-985c-1471e0746314" />
+<img width="626" height="451" alt="image" src="https://github.com/user-attachments/assets/6ebbcce5-70c4-49cd-b377-12c398e571f3" />
 
-백그라운드.js 파일의 24번째 줄에 위에서 설정한 컨테이너 주소를 입력 해주시고 저장 합니다
+깃허브에서 확장 프로그램을 다운로드 ZIP 으로 다운 받으시고 적당한 곳에 압축을 풀어 줍니다
 
 <img width="1082" height="257" alt="image" src="https://github.com/user-attachments/assets/4b254541-4cc1-42ad-a70f-7b1487890937" />
 
@@ -17,6 +17,10 @@ AI 레시피 추출기의 크롬, 엣지 확장 프로그램 입니다
 <img width="1072" height="163" alt="image" src="https://github.com/user-attachments/assets/b41a3040-a257-42f5-b0c7-16b01df6ffef" />
 
 제대로 로딩이 되면 하단 기타 출처에 추가가 됩니다
+
+<img width="493" height="643" alt="image" src="https://github.com/user-attachments/assets/cdb4d347-1b15-4a54-9b51-61c54ac4778d" />
+
+확장 프로그램 옵션 창에 AI 레시피 추출기 주소를 입력 해주시면 됩니다
 
 <img width="588" height="385" alt="image" src="https://github.com/user-attachments/assets/862611e8-f381-4fac-a610-7a98f0b1d586" />
 
