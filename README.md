@@ -1,3 +1,5 @@
+AI 레시피 추출기의 크롬, 엣지 확장 프로그램 입니다
+
 <img width="1056" height="228" alt="image" src="https://github.com/user-attachments/assets/de47ca55-2b52-4fd1-985c-1471e0746314" />
 백그라운드.js 파일의 24번째 줄에 위에서 설정한 컨테이너 주소를 입력 해주시고 저장 합니다
 
