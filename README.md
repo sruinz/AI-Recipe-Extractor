@@ -1,6 +1,7 @@
-AI 레시피 추출기의 크롬, 엣지 확장 프로그램 입니다
-
+# AI 레시피 추출기
 [![Chrome 웹 스토어](https://img.shields.io/chrome-web-store/v/meemjdgdjhjfhcfchppfapgifiipjnlo?label=%ED%81%AC%EB%A1%AC%20%EC%8A%A4%ED%86%A0%EC%96%B4&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/ai-%EB%A0%88%EC%8B%9C%ED%94%BC-%EC%B6%94%EC%B6%9C%EA%B8%B0/meemjdgdjhjfhcfchppfapgifiipjnlo)
+
+AI 레시피 추출기의 크롬, 엣지 확장 프로그램 입니다
 
 <img width="626" height="451" alt="image" src="https://github.com/user-attachments/assets/6ebbcce5-70c4-49cd-b377-12c398e571f3" />
 
