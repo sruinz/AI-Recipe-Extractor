@@ -5,8 +5,8 @@ AI 레시피 추출기의 크롬, 엣지 확장 프로그램 입니다
 
 <img width="1082" height="257" alt="image" src="https://github.com/user-attachments/assets/4b254541-4cc1-42ad-a70f-7b1487890937" />
 크롬이나 엣지에서 확장 프로그램 관리 - 압축 풀린 파일 로드 선택 후 해당 폴더를 선택 하시면 됩니다
-
 위의 메뉴가 없는 경우
+
 <img width="452" height="619" alt="image" src="https://github.com/user-attachments/assets/87bddee1-34fa-434a-85dd-a90969accc05" />
 개발자 모드를 켜주세요
 
