@@ -1,5 +1,8 @@
 # AI 레시피 추출기
+[![엣지 스토어](https://img.shields.io/badge/엣지%20스토어-v1.1.15-0078D4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TWljcm9zb2Z0IEVkZ2U8L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTIuMzUyIDI0QzUuNTMgMjQgMCAxOC40NyAwIDExLjY0OCAwIDUuNTMgNS41MyAwIDEyLjM1NiAwYzUuNzI3IDAgOS41MDggMy4yMiAxMC40NSA3LjQyNGwtMy4zMzIgMS4yNThjLS44LTIuNjEtMi43My00LjUyNC02LjkyNC00LjUyNC00LjIyIDAtNy4zOSAzLjAxNS03LjM5IDcuNDkgMCA0LjQ1IDMuMTcgNy40OSA3LjM5IDcuNDkgNC4xOTQgMCA2LjEyNC0xLjkxNCA2LjkyNC00LjUyNGwzLjMzMiAxLjI1OEMyMS44NiAyMC43OCAxOC4wOCAyNCAxMi4zNTIgMjR6bS40MjItMTIuMjYySDUuMTk1djEuODE1aDcuNTh2LTEuODE1eiIvPjwvc3ZnPg==)](https://microsoftedge.microsoft.com/addons/detail/youtubedl-to-nas/idefjkbcbhgokgenjingeleopmficace?hl=ko)
 [![Chrome 웹 스토어](https://img.shields.io/chrome-web-store/v/meemjdgdjhjfhcfchppfapgifiipjnlo?label=%ED%81%AC%EB%A1%AC%20%EC%8A%A4%ED%86%A0%EC%96%B4&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/ai-%EB%A0%88%EC%8B%9C%ED%94%BC-%EC%B6%94%EC%B6%9C%EA%B8%B0/meemjdgdjhjfhcfchppfapgifiipjnlo)
+
+
 
 AI 레시피 추출기의 크롬, 엣지 확장 프로그램 입니다
 
